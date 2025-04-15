@@ -6,9 +6,9 @@
 </div>
 
 <h4 style="text-align: center;"><strong>Ingeniería de Software</strong></h4>
-<h4 style="text-align: center;"><strong>Aplicaciones Web - 4388</strong></h4>
-<h4 style="text-align: center;"><strong>Docente: Alex Humberto Sánchez Ponce></h4>
-<h4 style="text-align: center;"><strong>Startup: BuildTruck</strong></h4>
+<h4 style="text-align: center;"><strong>Desarrollo de Aplicaciones Open Source - 4348</strong></h4>
+<h4 style="text-align: center;"><strong>Docente: Hugo Allan Mori Paiva></h4>
+<h4 style="text-align: center;"><strong>Startup: ArquiTech</strong></h4>
 
 ### **Team members:**
 
@@ -19,16 +19,16 @@
   </tr>
   </tr>
     <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Steven Mathew Roca Tineo</td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">Daniela Araceli Gomez Flores</td>
     <td style="border: 1px solid black; padding: 8px; text-align: center;">U202311361</td>
   </tr>
   <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Daniela Araceli Gómez Flores</td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">Ernesto Rodas Sotomayor</td>
     <td style="border: 1px solid black; padding: 8px; text-align: center;">U202311184</td>
   </tr>
   </tr>
     <tr>
-    <td style="border: 1px solid black; padding: 8px; text-align: center;">Maylhy Olinda Gutierrez Condo</td>
+    <td style="border: 1px solid black; padding: 8px; text-align: center;">Melisa Geraldine Sulca Silva</td>
     <td style="border: 1px solid black; padding: 8px; text-align: center;">U202311220</td>
   </tr>  
   <tr>
